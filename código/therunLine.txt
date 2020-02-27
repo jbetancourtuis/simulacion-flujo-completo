@@ -1,0 +1,1 @@
+cmake -DGeant4_DIR=/home/adriana/GEANT4/geant4.10.3-install/lib/Geant4-10.3.1/ ../minas/; make -j2; time ./wcd -m input.in
